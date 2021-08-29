@@ -1,0 +1,626 @@
+entender
+to understand
+empezar
+to begin
+aprender
+to learn
+volver
+to return
+seguir
+to continue
+sentirse
+to feel
+creer
+to believe
+traer
+to bring
+buscar
+to look for
+encontrar
+to find
+agradable
+agreeable
+amable
+kind
+sincero(a)
+sincere
+tranquilo(a)
+calm
+joven
+young
+divertido(a)
+fun
+cómico(a)
+funny
+tímido(a)
+timid
+atrevido(a)
+daring
+abierto(a)
+open
+(la) gente
+people
+(el) apellido
+last name
+(el) colegio
+high school
+mejor
+better
+(la) costumbre
+custom
+(el/la) pariente(a)
+relative
+(el) país
+country
+(la) ciudad
+city
+(la) mujer
+woman
+(el) hombre
+man
+acostarse
+to lie down
+arreglarse
+to get ready
+despertarse
+to wake up
+bañarse
+to bathe
+cepillarse
+to brush
+afeitarse
+to shave
+dormirse
+to fall asleep
+vestirse
+to get dressed
+maquillarse
+to put on makeup
+peinarse
+to comb (one's hair)
+ducharse
+to shower
+capaz
+capable
+cariñoso(a)
+affectionate
+exigente
+demanding
+listo(a)
+clever
+sencillo(a)
+simple
+único(a)
+unique
+altruista
+selfless
+solidario(a)
+caring
+apasionado(a)
+passionate
+(el) éxito
+success
+(el) fracaso
+failure
+el hogar de ancianos
+home for the elderly
+la tutoría
+tutoring
+el centro recreativo
+recreation center
+las redes sociales
+social networks
+(el/la) compañero(a) de clase
+classmate
+(el) comedor de beneficencia
+soup kitchen
+(la) gente sin hogar
+homeless people
+juntos(as)
+together
+encargarse (de)
+to take charge (of)
+colaborar
+to collaborate
+contribuir
+to contribute
+donar
+to donate
+(el) trabajo voluntario
+volunteer work
+juntar fondos
+to fundraise
+planear
+to plan
+realizar
+to attain
+solicitar
+to solicit
+cuidar
+to take care of
+mejorar
+to improve
+parecer
+to appear
+tener éxito
+to be successful
+tener ganas de
+to feel like
+tener lugar
+to take place
+hacer un esfuerzo
+to make an effort
+darse cuenta de
+to realize
+encontrarse con
+to meet up with
+charlar
+to chat
+obtener
+to obtain
+construir
+to construct
+pensar en
+to think about
+Me gustaría ...
+I would like ...
+saber
+to know
+tener que
+to have to
+ir a
+to be going to
+tratar de
+to try to
+querer
+to love
+poder
+to be able to
+necesitar
+to need
+deber
+should
+es importante ...
+it's important to ...
+es necesario
+it's necessary
+es verdad que
+it's true that
+es cierto que
+it's true that
+estar seguro de que
+to be sure that
+pensar que
+to think that
+creer que
+to believe that
+darse cuenta de que
+to realize that
+saber que
+to know that
+asustarse
+to be frightened
+consentir
+to spoil
+descansar
+to rest
+disculparse
+to apologize
+disfrutar (de)
+to enjoy
+echar una carrera
+to race (challenge to race)
+hacer travesuras
+to play tricks
+jugar al escondite
+to play hide and seek
+jugar al pilla-pilla
+to play tag
+crecer
+to grow
+perdonar
+to forgive
+jugar a la casita
+to play house
+jugar a las damas
+to play checkers
+meterse en problemas
+to get into trouble
+montar el escúter
+to ride a scooter
+pescar
+to fish
+preocuparse
+to worry
+soñar con
+to dream about
+tomar una siesta
+to take a nap
+volar cometas
+to fly kites
+trepar a un árbol
+to climb a tree
+(los) dibujos animados
+cartoons
+dejar de
+to quit
+(el) tobogán
+slide
+(el) parque de atracciones
+amusement park
+(el) descanso
+break
+(el) columpio
+swing
+Había una vez
+Once upon a time there was
+(el) castillo
+castle
+(la) arena
+sand
+(la) plastilina
+play dough
+(la) montaña rusa
+roller coaster
+deslizar
+to slide
+disfrazarse
+to disguise oneself
+fastidiar
+to annoy
+ambicioso(a)
+ambitious
+aventurero(a)
+adventurous
+bondadoso(a)
+kind
+conversador(a)
+talkative
+encantador(a)
+charming
+humilde
+humble
+juguetón(a)
+playful
+melancólico(a)
+gloomy
+ruidoso(a)
+noisy
+sabio(a)
+wise
+terco(a)
+stubborn
+miedoso(a)
+fearful
+escoger
+to choose
+evitar
+to avoid
+bajar de peso
+to lose weight
+aumentar de peso
+to gain weight
+mantenerse en forma
+to stay in shape
+saltar una comida
+to skip a meal
+incluir
+to include
+estar en forma
+to be fit
+estar sano(a)
+to be healthy
+quedarse
+to stay
+abdominales
+sit-ups
+hacer yoga
+to do yoga
+hacer cinta
+to use a treadmill
+estirarse
+to stretch
+(los) ejercicios aeróbicos
+aerobics
+hacer flexiones
+to do push-ups
+(el) calambre
+cramp
+aguantar
+to tolerate
+(el) dolor
+pain
+relajarse
+to relax
+(la) energía
+energy
+(la) fuerza
+strength
+(la) enfermedad
+illness
+débil
+weak
+fuerte
+strong
+agotado(a)
+exhausted
+aliviar el estrés
+to reduce stress
+enfermarse
+to get sick
+(el) consejo
+advice
+estresado(a)
+stressed (out)
+demasiado(a)
+too much
+(la) merienda
+snack
+(el) alimento
+food
+(el) hábito alimenticio
+eating habit
+(la) comida chatarra
+junk food
+(la) manera
+manner
+saludable
+healthy
+nutritivo(a)
+nutritive
+alimentarse bien
+to eat right
+(la) vitamina
+vitamin
+aprovechar
+to take advantage of
+equilibrado(a)
+balanced
+confiar en
+to trust in
+apoyar
+to support
+contar con
+to count on
+reconocer
+to recognize
+tener en común
+to have in common
+cambiar
+to change
+hacer caso
+to pay attention
+aceptar tal como (soy)
+to accept (me) the way I am
+guardar un secreto
+to keep a secret
+pedir perdón
+to say you are sorry
+resolver
+to resolve
+enfrentarse
+to face
+apreciar
+to appreciate
+reconciliarse
+to reconcile
+estar equivocado(a)
+to be mistaken
+juzgar
+to judge
+pensar en sí mismo(a)
+to think of oneself
+tener celos
+to be jealous
+tener la culpa
+to be guilty
+(la) amistad
+friendship
+(la) confianza
+confidence
+(el) malentendido
+misunderstanding
+(la) razón
+reason
+(la) pelea
+fight
+comprensivo(a)
+understanding
+maduro(a)
+mature
+sensible
+sensitive
+leal
+loyal
+celoso(a)
+jealous
+chismoso(a)
+gossipy
+descortés
+rude
+egoísta
+selfish
+entrometido(a)
+interfering
+vanidoso(a)
+vain
+sorprenderse de que
+to be surprised that
+alegrarse de que
+to be glad that
+esperar que
+to hope that
+temer que
+to fear that
+es preferible que
+it's preferable that
+es necesario que
+it's necessary that
+exigir
+to demand
+es bueno que
+it's good that
+es triste que
+it's sad that
+mostrar
+to show
+los demás
+the rest
+tomar decisiones
+to make decisions
+graduarse
+to graduate
+especializar
+to specialize
+seguir una carrera
+to pursue a career
+hacerse
+to become
+ganar dinero
+to earn money
+estar orgulloso(a) de
+to be proud of
+admirar
+to admire
+dedicarse a
+to dedicate oneself to
+esforzarse
+to strive
+lograr
+to achieve
+alcanzar
+to reach
+(el) título
+degree
+conseguir
+to obtain
+valiente
+brave
+persistente
+persistent
+espontáneo(a)
+spontaneous
+exitoso(a)
+successful
+(la) meta
+goal
+(la) cualidad
+quality
+(el) esfuerzo
+effort
+(los) negocios
+business
+(el) hombre de negocios
+businessman
+(la) empresa
+company
+(el/la) abogado(a)
+lawyer
+(el/la) ingeniero(a)
+engineer
+(el/la) científico(a)
+scientist
+(el/la) programador(a)
+programmer
+(el/la) jefe(a)
+boss
+(el/la) dueño(a)
+owner
+(el/la) diseñador(a)
+designer
+(el/la) contador(a)
+accountant
+es posible que
+it's possible that
+dudar que
+to doubt that
+es malo que
+it's bad that
+no creer que
+to not believe that
+es probable que
+it's probable that
+insistir en que
+to insist on
+es imposible que
+it's impossible that
+para que
+so that
+ojalá que
+I hope that
+tal vez
+perhaps
+es dudoso que
+it's doubtful that
+averiguar
+to find out
+recoger
+to collect
+(el) boleto
+ticket
+pasear
+to go for a walk
+dejar la propina
+to leave the tip
+(el) itinerario
+itinerary
+(el) mapa
+map
+(el) folleto
+brochure
+(la) vista
+view
+esperar
+to wait for
+(el) paisaje
+landscape
+(el) alojamiento
+lodging
+(el/la) guía
+guide
+(el/la) turista
+tourist
+(el/la) extranjero(a)
+foreigner
+(el) campo
+countryside
+(la) gira
+tour
+hacer una excursión
+to go on a day trip
+(la) habitación
+bedroom
+(los) lugareños
+locals
+(el) mar
+sea
+(el) recuerdo
+souvenir
+(el) imán
+magnet
+(la) cobija
+blanket
+(la) artesanía
+craft
+(el) cuadro
+painting
+(el) llavero
+keychain
+(la) figura tallada
+carved figure
+extranjero(a)
+foreign
+típico
+typical
+hecho(a) a mano
+handmade
+(la) entrada
+ticket
+recomendar
+to recommend
+sugerir
+to suggest
+aconsejar
+to advise
+quizás
+maybe
